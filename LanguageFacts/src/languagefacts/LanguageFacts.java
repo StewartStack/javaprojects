@@ -7,6 +7,7 @@ package languagefacts;
 /**
  *
  * @author jcls1987
+ * Language Facts | Learn Java | Codecademy
  * 09/30/2022
  */
 public class LanguageFacts {
