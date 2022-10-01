@@ -7,6 +7,7 @@ package hideandseek;
 /**
  *
  * @author jcls1987
+ * Hide And Seek | Learn Java | Codecademy
  * 09/30/2022
  */
 public class HideAndSeek {
