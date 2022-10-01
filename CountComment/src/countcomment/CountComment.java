@@ -7,6 +7,8 @@ package countcomment;
 /**
  *
  * @author jcls1987
+ * CountComment | Learn Java | Codecademy
+ * 10/1/2022
  */
 //This is the class declaration
 public class CountComment {
