@@ -7,7 +7,7 @@ package asciiconv;
 /**
  *
  * @author jcls1987
- * asciiconverions Codecademy Java 
+ * asciiconverions Codecademy Intro to Java 
  * 10/1/2022
  */
 
