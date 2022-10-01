@@ -7,6 +7,8 @@ package marketsharedouble;
 /**
  *
  * @author jcls1987
+ * Market Share Double | Learn Java | Codecademy
+ * 10/1/2022
  */
 public class MarketShareDouble {
 
