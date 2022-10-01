@@ -7,6 +7,8 @@ package madlibs;
 /**
  *
  * @author jcls1987
+ * MadLibs | Learn Java | Codecademy
+ * 10/1/2022
  */
 public class MadLibs {
 
