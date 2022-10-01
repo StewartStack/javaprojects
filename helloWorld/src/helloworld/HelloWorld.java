@@ -7,6 +7,7 @@ package helloworld;
 /**
  *
  * @author John Stewart
+ * Hello world | Learn Java | Codecademy
  * 09/30/2022 
  */
 public class HelloWorld {
