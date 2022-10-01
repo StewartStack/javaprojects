@@ -7,7 +7,7 @@ package badnames;
 /**
  *
  * @author jcls1987
- * BadNames Learn Java Codecademy
+ * BadNames | Learn Java | Codecademy
  * 10/1/2022
  */
 public class BadNames {
