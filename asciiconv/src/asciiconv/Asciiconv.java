@@ -7,6 +7,8 @@ package asciiconv;
 /**
  *
  * @author jcls1987
+ * asciiconverions Codecademy Java 
+ * 10/1/2022
  */
 
 import java.util.Scanner;
