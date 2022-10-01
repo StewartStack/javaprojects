@@ -7,6 +7,8 @@ package compiling;
 /**
  *
  * @author jcls1987
+ * Compiling | Learn Java | Codecademy
+ * 10/1/2022
  */
 public class Compiling {
 
