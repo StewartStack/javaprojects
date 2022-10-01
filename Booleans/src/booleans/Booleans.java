@@ -7,6 +7,8 @@ package booleans;
 /**
  *
  * @author jcls1987
+ * Booleans Codecademy java
+ * 10/1/2022
  */
 public class Booleans {
 
