@@ -7,6 +7,9 @@ package droid;
 /**
  *
  * @author jcls1987
+ * 10/06/2022
+ * Building a Droid using methods and classes.
+ * Codecademy Project
  */
 public class Droid {
 
